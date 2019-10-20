@@ -1,0 +1,11 @@
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\bin\Debug\netcoreapp2.1\cS - Modulo n Generator.deps.json
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\bin\Debug\netcoreapp2.1\cS - Modulo n Generator.runtimeconfig.json
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\bin\Debug\netcoreapp2.1\cS - Modulo n Generator.runtimeconfig.dev.json
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\bin\Debug\netcoreapp2.1\cS - Modulo n Generator.dll
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\bin\Debug\netcoreapp2.1\cS - Modulo n Generator.pdb
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\obj\Debug\netcoreapp2.1\cS - Modulo n Generator.csprojAssemblyReference.cache
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\obj\Debug\netcoreapp2.1\cS - Modulo n Generator.csproj.CoreCompileInputs.cache
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\obj\Debug\netcoreapp2.1\cS - Modulo n Generator.AssemblyInfoInputs.cache
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\obj\Debug\netcoreapp2.1\cS - Modulo n Generator.AssemblyInfo.cs
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\obj\Debug\netcoreapp2.1\cS - Modulo n Generator.dll
+A:\Visual Studio Projects\C# Projects\cS - Modulo n Generator\cS - Modulo n Generator\obj\Debug\netcoreapp2.1\cS - Modulo n Generator.pdb

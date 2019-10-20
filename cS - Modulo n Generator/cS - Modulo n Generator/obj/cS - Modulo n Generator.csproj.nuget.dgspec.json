@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\Visual Studio Projects\\C# Projects\\cS - Modulo n Generator\\cS - Modulo n Generator\\cS - Modulo n Generator.csproj": {}
+  },
+  "projects": {
+    "A:\\Visual Studio Projects\\C# Projects\\cS - Modulo n Generator\\cS - Modulo n Generator\\cS - Modulo n Generator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Visual Studio Projects\\C# Projects\\cS - Modulo n Generator\\cS - Modulo n Generator\\cS - Modulo n Generator.csproj",
+        "projectName": "cS - Modulo n Generator",
+        "projectPath": "A:\\Visual Studio Projects\\C# Projects\\cS - Modulo n Generator\\cS - Modulo n Generator\\cS - Modulo n Generator.csproj",
+        "packagesPath": "C:\\Users\\AnnihilatorX3000\\.nuget\\packages\\",
+        "outputPath": "A:\\Visual Studio Projects\\C# Projects\\cS - Modulo n Generator\\cS - Modulo n Generator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AnnihilatorX3000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
